@@ -21,9 +21,9 @@
 
   <!-- Menu -->
   <ul class="willhide">
-    <li {% if page.url == "/" %} class="active"{% endif %}>
-      <!-- <a class="clear" aria-label="Home" title="Home" href="/">Home</a> -->
-  </li>
+    <!-- <li {% if page.url == "/" %} class="active"{% endif %}>
+      <a class="clear" aria-label="Home" title="Home" href="/">Home</a>
+  </li> -->
     {%- for item in site.data.settings.items -%}
     {%- unless item.name == null or item.siteurl ==  null -%}
       <li {% if page.url contains item.siteurl %} class="active"{% endif %}>
