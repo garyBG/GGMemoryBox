@@ -4,6 +4,10 @@
     font-family: 'Scorpion'; /*a name to be used later*/
     src: url('/Scorpion.ttf'); /*URL to font*/
 }
+@font-face {
+    font-family: 'Once in a While'; /*a name to be used later*/
+    src: url('/OnceInAWhile.ttf'); /*URL to font*/
+}
 
 html {
     -ms-text-size-adjust: 100%;
@@ -467,6 +471,7 @@ header {
 }
 
 .posts .post-teaser {
+    color: #000;
     width: 100%;
     margin-bottom: 0;
     display: inline-block;
@@ -720,7 +725,7 @@ align-items: center;
 }
 
 .site-header a {
-    font-family: 'Scorpion';
+    font-family: 'Once in a While';
     color: #ffffff
 }
 
