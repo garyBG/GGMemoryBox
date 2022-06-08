@@ -793,8 +793,8 @@ align-items: center;
 
 #headerText {
     font-family: 'SivarPro';
-    color: #ffffff;
-    font: bold
+    color: #ffffff !important; 
+    font-weight: bold;
 }
 
 .clear {
