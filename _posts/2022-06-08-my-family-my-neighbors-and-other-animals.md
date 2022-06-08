@@ -13,7 +13,7 @@ Before I recall the stories that jumped at me, I remind myself and whoever reads
 
 ![Digital/Clay Collage](../uploads/ClayDigitalPastiche.png "Digital/Clay Collage With My Home at the Center")
 
-**Floor 1 - Apt 2.**: My grandmother's apartment on the first floor has become a de-facto nursery, hospital, and coffee house for all members of our block. Her doors are always unlocked, and neighbours never ring before entering. The hearth of the block. This distinguished status is why, even when I am halfway around the world over the last decade, I am still cherished and taking care of by my neighbours. In turn, all those who she treats, watches, and comforts would do it all for her. ALways asking to pick up her grocerice, to do her housework, to drive her where needed. Like a mob boss, she carefully delegates all the inner workings of the block.
+**Floor 1 - Apt 2.**: My grandmother's apartment on the first floor has become a de-facto nursery, hospital, and coffee house for all members of our block. Her doors are always unlocked, and neighbours never ring before entering. The hearth of the block. This distinguished status is why, even when I am halfway around the world over the last decade, I am still cherished and taking care of by my neighbours. In turn, all those who she treats, watches, and comforts would do it all for her. ALways asking to pick up her groceries, to do her housework, to drive her where needed. Like a mob boss, she carefully delegates all the inner workings of the block.
 
 **Floor 1 - Apt 5.**: A young couple moved there a couple of years ago. Their nightly arguments incessantly echo through the cold, stone halls. There are murmurs of the horrible abuse the man engages in as part of his nightly ritual. Being the culture that it is, nobody bats an eye. Some in the block encourage it, some just refuse to look at him.
 
@@ -25,8 +25,14 @@ Before I recall the stories that jumped at me, I remind myself and whoever reads
 
 **Floor 4 - Apt 24**: A fiery auntie who toils long hours to support her no-good husband. She bickers with all those around her, but never garners their hate, she does too much good. Her husband always tosses passer-bys sly smiles as he drinks his room-temp. beer from his LADA with deflated tires.
 
-**Floor 6 - Apt 35**: An old Armenian couple who the bottles, plates, and buckets at the kids playing below.
+**Floor 6 - Apt 35**: An old Armenian couple who the bottles, plates, and buckets at the kids playing below. Together for five decades, they share in their hatred of kids.
 
-**Floor 8 - Apt 54**: Dimitar, "The Headlight", a veteran alchoholic who has survived everything life throws at him. He has fallen from the first, second, and third stories without a scratch. Loves to throw rocks at his neighbors when they slight him.
+**Floor 7 - Apt 44**: A Syrian family that moved after the civil war destroyed their home. Their daughter, one day younger than me, became an inseparable companion to me. 
+
+**Floor 8 - Apt 54**: Dimitar, "The Headlight", a veteran alcoholic who has survived everything life throws at him. He has fallen from the first, second, and third stories without a scratch. Loves to throw rocks at his neighbors when they slight him.
 
 **Floor 8 - Apt 56**: Nikolai, Dimitar's greatest Nemesis. A former opera singer who has let life get the best of him. Now he tents a large, stained beard from which he spouts creative insults. Frequently throws raw poultry at Dimitar's door.
+
+**Floor 9 - Apt 62**: The older auntie walks around with an air of mystery around her. Routinely, at 1AM always, she descends from her high above to feed all the neighborhood cats. She controls them like an army of minions, ready to sick them on anyone who dares mean-mug her. Occasionally she sneaks to the basement always checking her back as if some agent from the Soviet era still follows her.
+
+**Floor 10 - Apt 65**: My friend, mentor, and de-facto older brother's apartment. Left to tend to himself at the age of 15 as his family left for Germany without him. A happy, hardworking kid who would always pull me into his adventures, regardless of the gap in maturity between us. Four years after being left alone, he would lose his life. The 10th floor is a place I dare not step anymore.
