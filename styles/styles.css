@@ -1,5 +1,9 @@
 /* code */
 @import "highlighter.css";
+@font-face {
+    font-family: 'Aku & Kamu'; /*a name to be used later*/
+    src: url('/Aku\ &\ Kamu.otf'); /*URL to font*/
+}
 
 html {
     -ms-text-size-adjust: 100%;
@@ -716,6 +720,7 @@ align-items: center;
 }
 
 .site-header a {
+    font-family: 'Aku & Kamu';
     color: #ffffff
 }
 
