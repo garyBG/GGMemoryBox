@@ -787,6 +787,11 @@ align-items: center;
     float: right
 }
 
+#headerText {
+    font-family: 'Scorpion';
+    color: #000000
+}
+
 .clear {
     * zoom: 1
 }
