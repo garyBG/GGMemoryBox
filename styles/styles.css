@@ -786,6 +786,10 @@ align-items: center;
     /* margin-top: 13px; */
     float: right
 }
+.headerText {
+    font-family: 'Scorpion';
+    color: #000000
+}
 
 .clear {
     * zoom: 1
