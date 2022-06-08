@@ -8,6 +8,10 @@
     font-family: 'Once in a While'; /*a name to be used later*/
     src: url('/OnceInAWhile.ttf'); /*URL to font*/
 }
+@font-face {
+    font-family: 'SivarPro'; /*a name to be used later*/
+    src: url('/SivarPro.otf'); /*URL to font*/
+}
 
 html {
     -ms-text-size-adjust: 100%;
@@ -788,8 +792,9 @@ align-items: center;
 }
 
 #headerText {
-    font-family: 'Scorpion';
-    color: #000000
+    font-family: 'SivarPro';
+    color: #ffffff;
+    font: bold
 }
 
 .clear {
